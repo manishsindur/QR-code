@@ -2,6 +2,7 @@
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
+	font-family: "Outfit", sans-serif;
 }
 
 .flex {
@@ -11,8 +12,7 @@
 	flex-direction: column;
 }
 
-body {
-	font-family: "Outfit", sans-serif;
+main {
 	height: 100vh;
 	background-color: #d5e1ef;
 }
@@ -55,16 +55,4 @@ p {
 	width: 256px;
 	height: 57px;
 	margin-bottom: 20px;
-}
-
-footer {
-	margin-top: 40px;
-}
-
-.attribution {
-	font-size: 11px;
-	text-align: center;
-}
-.attribution a {
-	color: hsl(228, 45%, 44%);
 }
