@@ -32,7 +32,7 @@ img {
 	margin-bottom: 25px;
 }
 
-.heading {
+h1 {
 	color: #1f314f;
 	font-style: normal;
 	font-weight: 700;
@@ -44,7 +44,7 @@ img {
 	margin-bottom: 15px;
 }
 
-.para {
+p {
 	color: #7d889e;
 	font-style: normal;
 	font-weight: 400;
