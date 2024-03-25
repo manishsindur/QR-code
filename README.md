@@ -9,7 +9,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -18,8 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Desktop](images/Desktop-img.png)
-![Mobile](images/Mobile-img.png)
+![Desktop](images/Desktop.jpeg)
+![Mobile](images/Mobile.jpeg)
 
 ## My process
 
