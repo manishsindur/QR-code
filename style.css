@@ -29,7 +29,7 @@ img {
 	width: 288px;
 	height: 288px;
 	border-radius: 10px;
-	margin-bottom: 23px;
+	margin-bottom: 20px;
 }
 
 h1 {
@@ -40,8 +40,7 @@ h1 {
 	line-height: 28px;
 	text-align: center;
 	width: 288px;
-	height: 56px;
-	margin-bottom: 16px;
+	height: 70px;
 }
 
 p {
@@ -53,8 +52,7 @@ p {
 	text-align: center;
 	letter-spacing: 0.1875px;
 	width: 256px;
-	height: 57px;
-	margin-bottom: 23px;
+	height: 80px;
 }
 
 .attribution {
